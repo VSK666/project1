@@ -1,1 +1,2 @@
 its a default branch thats available.
+git push is used to move file from local to remote repo.
